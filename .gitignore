@@ -1,0 +1,103 @@
+# SCOPE-HN Dataset .gitignore
+
+# Large video files (stored on Google Drive)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Large image datasets (stored on Google Drive)
+images/
+masks/
+annotations/
+dataset/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+redaction_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Configuration files with sensitive data
+config.ini
+secrets.json
+credentials.json
+
+# rclone config (may contain sensitive info)
+rclone.conf
+
+# Sample frames (can be regenerated)
+sample_frames/
+
+# Backup files
+*.bak
+*.backup
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Local development
+local_*
+test_*
+debug_*
