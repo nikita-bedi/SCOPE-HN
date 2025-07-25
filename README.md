@@ -62,7 +62,7 @@ The dataset underwent comprehensive preprocessing to ensure privacy compliance a
   - Color space: RGB
 
 - **Image Data**: 942 high-quality RGB frames extracted from videos
-  - Format: JPEG
+  - Format: JPEG or PNG
   - Resolution: Maintains original video resolution
   - Color depth: 24-bit RGB
 
@@ -116,18 +116,6 @@ The dataset includes de-identified clinical metadata for research purposes:
 - **Histological Grade**: Tumor differentiation grade
 - **Treatment History**: Prior treatments (surgery, radiation, chemotherapy)
 
-### Technical Metadata
-- **Acquisition Date**: Year of video acquisition (2015-2023)
-- **Endoscope Type**: Equipment specifications (when available)
-- **Image Quality Score**: Expert-assessed quality rating (1-5 scale)
-- **Annotation Confidence**: Annotator confidence level per frame
-
-### Data Quality Indicators
-- **Motion Quality**: Assessment of patient/scope movement
-- **Illumination Quality**: Lighting adequacy assessment
-- **Anatomical Visibility**: Clarity of target structures
-- **Artifact Severity**: Degree of imaging artifacts present
-
 ## Licensing Terms and Data Use Conditions
 
 ### License
@@ -158,23 +146,21 @@ Users must agree to the following conditions:
 ### Ethical Considerations
 - All patient data has been de-identified according to HIPAA Safe Harbor provisions
 - Stanford University IRB approval was obtained for dataset creation and distribution
-- Patients provided informed consent for research use of their clinical data
-- Regular audits ensure continued compliance with privacy regulations
 
 ### Access and Distribution
-The dataset will be made available through the **Stanford AIMI (Artificial Intelligence in Medicine & Imaging) platform** at [https://aimi.stanford.edu](https://aimi.stanford.edu).
+The final, de-identified SCOPE-HN dataset will be available through the [Stanford AIMI platform](https://stanfordaimi.azurewebsites.net/) under a **CC-BY-NC 4.0** license. Raw clinical data used in these scripts is not publicly accessible.
+
 
 ### Citation
 When using this dataset, please cite:
 ```
-[Citation information will be provided upon publication]
+Bedi et al., “SCOPE-HN: A Curated Dataset for Endoscopic Tissue Segmentation in Oropharyngeal Cancer”, MELBA (in press), 2025.
 ```
 
 ### Contact Information
 For questions, technical support, or collaboration inquiries:
-- **Principal Investigator**: [PI Name and Contact]
-- **Technical Contact**: [Technical Contact Information]
-- **Dataset Maintainer**: [Maintainer Contact]
+- **Principal Investigator**: [Chris Holsinger, MD]
+- **Technical Contact**: [nbedi@stanford.edu]
 
 ### Acknowledgments
 We acknowledge the patients who contributed their data to advance medical research, the clinical teams at Stanford Medicine, and the expert annotators who made this dataset possible.
