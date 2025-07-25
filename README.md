@@ -150,6 +150,8 @@ Users must agree to the following conditions:
 ### Access and Distribution
 The final, de-identified SCOPE-HN dataset will be available through the [Stanford AIMI platform](https://stanfordaimi.azurewebsites.net/) under a **CC-BY-NC 4.0** license. Raw clinical data used in these scripts is not publicly accessible.
 
+For now, reviewers can access the dataset for verification at [https://drive.google.com/drive/folders/1n723LsVhj4eUhn_OA-OO3ruQz2R_RF03?usp=sharing]
+
 
 ### Citation
 When using this dataset, please cite:
