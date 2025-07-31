@@ -113,32 +113,21 @@ The dataset includes de-identified clinical metadata for research purposes:
 - **TNM Staging**: Tumor classification
 
 ## Licensing Terms and Data Use Conditions
-
-### License
-The SCOPE-HN dataset is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
-
-### Permitted Uses
-- Academic research and education
-- Non-commercial algorithm development
-- Clinical research (with appropriate IRB approval)
-- Publication in peer-reviewed venues
-- Open-source software development for research purposes
-
-### Restrictions
-- **No Commercial Use**: Dataset cannot be used for commercial purposes without explicit permission
-- **No Re-identification**: Users must not attempt to re-identify patients or link data to other datasets
-- **Attribution Required**: All publications and presentations must cite the original dataset paper
-- **Derivative Works**: Any derivative datasets must maintain the same licensing terms
-
-### Data Use Agreement Requirements
-Users must agree to the following conditions:
-1. Use data only for stated research purposes
-2. Implement appropriate data security measures
-3. Not redistribute raw data without permission
-4. Report any suspected data quality issues
-5. Acknowledge dataset creators in all publications
-6. Share research findings with the broader community when possible
-
+STANFORD UNIVERSITY SCHOOL OF MEDICINE DATASET RESEARCH USE AGREEMENT
+By registering for downloads from this Dataset, you are agreeing to this Research Use Agreement, as well as to the Terms of Use of the Stanford University School of Medicine website as posted and updated periodically at[http://www.stanford.edu/site/terms/].
+1. Permission is granted to view and use the Dataset without charge for personal, non-commercial research purposes only. Any commercial use, sale, or other monetization is prohibited.
+2. Other than the rights granted herein, the Stanford University School of Medicine (ÒSchool of MedicineÓ) retains all rights, title, and interest in the Dataset.
+3. You may make a verbatim copy of the Dataset for personal, non-commercial research use as permitted in this Research Use Agreement. If another user within your organization wishes to use the Dataset, they must register as an individual user and comply with all the terms of this Research Use Agreement.
+4. YOU MAY NOT DISTRIBUTE, PUBLISH, OR REPRODUCE A COPY of any portion or all of the Dataset to others without specific prior written permission from the School of Medicine.
+5. YOU MAY NOT SHARE THE DOWNLOAD LINK to the dataset to others. If another user within your organization wishes to use the Dataset, they must register as an individual user and comply with all the terms of this Research Use Agreement.
+6. You must not modify, reverse engineer, decompile, or create derivative works from the Dataset. You must not remove or alter any copyright or other proprietary notices in the Dataset.
+7. The Dataset has not been reviewed or approved by the Food and Drug Administration, and is for non-clinical, Research Use Only. In no event shall data or images generated through the use of the Dataset be used or relied upon in the diagnosis or provision of patient care.
+8. THE DATASET IS PROVIDED "AS IS," AND STANFORD UNIVERSITY AND ITS COLLABORATORS DO NOT MAKE ANY WARRANTY, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, NOR DO THEY ASSUME ANY LIABILITY OR RESPONSIBILITY FOR THE USE OF THIS DATASET.
+9. You will not make any attempt to re-identify any of the individual data subjects. Re-identification of individuals is strictly prohibited. Any re-identification of any individual data subject shall be immediately reported to the School of Medicine.
+10. Any violation of this Research Use Agreement or other impermissible use shall be grounds for immediate termination of use of this Dataset. In the event that the School of Medicine determines that the recipient has violated this Research Use Agreement or other impermissible use has been made, the School of Medicine may direct that the undersigned data recipient immediately return all copies of the Dataset and retain no copies thereof even if you did not cause the violation or impermissible use.
+In consideration for your agreement to the terms and conditions contained here, Stanford grants you permission to view and use the Dataset for personal, non-commercial research. You may not otherwise copy, reproduce, retransmit, distribute, publish, commercially exploit or otherwise transfer any material.
+**Limitation of Use**:ÊYou may use Dataset for legal purposes only.
+You agree to indemnify and hold Stanford harmless from any claims, losses or damages, including legal fees, arising out of or resulting from your use of the Dataset or your violation or role in violation of these Terms. You agree to fully cooperate in StanfordÕs defense against any such claims. These Terms shall be governed by and interpreted in accordance with the laws of California.
 ### Ethical Considerations
 - All patient data has been de-identified according to HIPAA Safe Harbor provisions
 - Stanford University IRB approval was obtained for dataset creation and distribution
@@ -163,7 +152,7 @@ We acknowledge the patients who contributed their data to advance medical resear
 
 ---
 
-**Version**: 1.0  
+**Version**: 2.0  
 **Last Updated**: July 2025  
 **Total Videos**: 104  
 **Total Images**: 942  
