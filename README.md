@@ -76,9 +76,8 @@ The dataset underwent comprehensive preprocessing to ensure privacy compliance a
 2. **Tumor Detection and Classification**: Identification and characterization of malignant tissue
 3. **Anatomical Structure Recognition**: Automated identification of normal head and neck anatomy
 4. **Artifact Detection**: Recognition and handling of endoscopic imaging artifacts
-5. **Clinical Decision Support**: Benchmarking algorithms for diagnostic assistance
-6. **Multi-class Classification**: Frame-level classification tasks
-7. **Temporal Analysis**: Video-based progression and motion analysis
+5. **Multi-class Classification**: Frame-level classification tasks
+6. **Temporal Analysis**: Video-based progression and motion analysis
 
 ### Semantic Classes
 The annotation schema includes 12 distinct classes:
@@ -100,7 +99,7 @@ The annotation schema includes 12 distinct classes:
 The dataset includes de-identified clinical metadata for research purposes:
 
 ### Demographic Information
-- **Age Group**: Categorized age ranges (e.g., 40-49, 50-59, 60-69, 70+)
+- **Age Group**: 18+
 - **Sex**: Male/Female
 - **Race/Ethnicity**: Self-reported categories (when available)
 
@@ -111,10 +110,7 @@ The dataset includes de-identified clinical metadata for research purposes:
   - Soft palate
   - Pharyngeal wall
   - Other oropharyngeal subsites
-- **HPV Status**: Human papillomavirus status (positive/negative/unknown)
-- **TNM Staging**: Tumor, Node, Metastasis staging information
-- **Histological Grade**: Tumor differentiation grade
-- **Treatment History**: Prior treatments (surgery, radiation, chemotherapy)
+- **TNM Staging**: Tumor classification
 
 ## Licensing Terms and Data Use Conditions
 
@@ -148,9 +144,7 @@ Users must agree to the following conditions:
 - Stanford University IRB approval was obtained for dataset creation and distribution
 
 ### Access and Distribution
-The final, de-identified SCOPE-HN dataset will be available through the [Stanford AIMI platform](https://stanfordaimi.azurewebsites.net/) under a **CC-BY-NC 4.0** license. Raw clinical data used in these scripts is not publicly accessible.
-
-For now, reviewers can access the dataset for verification at [https://drive.google.com/drive/folders/1n723LsVhj4eUhn_OA-OO3ruQz2R_RF03?usp=sharing]
+The final, de-identified SCOPE-HN dataset will be available through the [Stanford AIMI platform](link) under a **CC-BY-NC 4.0** license. Raw clinical data used in these scripts is not publicly accessible.
 
 
 ### Citation
