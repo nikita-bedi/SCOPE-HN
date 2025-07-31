@@ -72,7 +72,7 @@ The dataset underwent comprehensive preprocessing to ensure privacy compliance a
   - Annotation tool: Custom annotation interface with expert validation
 
 ### Supported Tasks
-1. **Semantic Segmentation**: Pixel-level classification of anatomical structures and pathology
+1. **Semantic Segmentation**: Pixel-level classification of anatomical structures
 2. **Tumor Detection and Classification**: Identification and characterization of malignant tissue
 3. **Anatomical Structure Recognition**: Automated identification of normal head and neck anatomy
 4. **Artifact Detection**: Recognition and handling of endoscopic imaging artifacts
