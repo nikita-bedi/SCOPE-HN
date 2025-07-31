@@ -132,9 +132,6 @@ You agree to indemnify and hold Stanford harmless from any claims, losses or dam
 - All patient data has been de-identified according to HIPAA Safe Harbor provisions
 - Stanford University IRB approval was obtained for dataset creation and distribution
 
-### Access and Distribution
-The final, de-identified SCOPE-HN dataset will be available through the [Stanford AIMI platform](link) under a **CC-BY-NC 4.0** license. Raw clinical data used in these scripts is not publicly accessible.
-
 
 ### Citation
 When using this dataset, please cite:
@@ -144,8 +141,8 @@ Bedi et al., “SCOPE-HN: A Curated Dataset for Endoscopic Tissue Segmentation i
 
 ### Contact Information
 For questions, technical support, or collaboration inquiries:
-- **Principal Investigator**: [Chris Holsinger, MD]
-- **Technical Contact**: [nbedi@stanford.edu]
+- **Principal Investigator**: Chris Holsinger, MD [holsinger@stanford.edu]
+- **Technical Contact**: Nikita Bedi [nbedi@stanford.edu]
 
 ### Acknowledgments
 We acknowledge the patients who contributed their data to advance medical research, the clinical teams at Stanford Medicine, and the expert annotators who made this dataset possible.
